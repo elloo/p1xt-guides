@@ -83,7 +83,7 @@ A very gentle introduction, complete if feel you would benefit from it, skip if 
 | [Advanced JS: Games & Visualizations](https://www.khanacademy.org/computing/computer-programming/programming-games-visualizations)                            |    Skipped   |
 | [HTML/JS: Making webpages interactive](https://www.khanacademy.org/computing/computer-programming/html-css-js)                                                        |   Skipped    |
 | **Capstone**                                                                                                                                                          | **Status** | **Evidence** |
-| Create a website highlighting what you learned and built during this tier. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc. |            |
+| Create a website highlighting what you learned and built during this tier. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc. |   Skipped    |
 
 ### Tier 0 - Web Development - Fullstack Bootcamp - App Academy Open
 
